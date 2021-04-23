@@ -4,9 +4,9 @@
 # Parameters used by HUGO to configure the site's global settings.
 preserveTaxonomyNames = "true"
 
-baseurl = "https://meili.ml/"
+baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "美丽.美丽meili.ml"
+title = "HUGO MyPortfolio Theme"
 theme = "hugo-myportfolio-theme"
 
 [markup.goldmark.renderer]
